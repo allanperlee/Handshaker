@@ -1,0 +1,13 @@
+C:\Users\allan\Desktop\eql\target\debug\deps\cc-58fcb5fd924a9c37.rmeta: C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs
+
+C:\Users\allan\Desktop\eql\target\debug\deps\libcc-58fcb5fd924a9c37.rlib: C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs
+
+C:\Users\allan\Desktop\eql\target\debug\deps\cc-58fcb5fd924a9c37.d: C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs
+
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs:
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs:
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs:
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs:
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs:
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs:
+C:\Users\allan\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs:
